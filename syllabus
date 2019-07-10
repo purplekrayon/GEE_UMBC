@@ -10,7 +10,9 @@ Week 1.	What is GEE?
   d. What data are on GEE?  
     i. Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
     ii.	https://developers.google.com/earth-engine/datasets/
-  d.	signup.earthengine.google.com
+  d.	Assignment
+    i. [Sign up for GEE](https://signup.earthengine.google.com)
+    ii. [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 Week 2.	Intro to javascipt and Github
     2. lab 1: 
       i.02_javascript.js & git hub intructions
