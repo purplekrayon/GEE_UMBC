@@ -6,13 +6,13 @@ Weeks:
 ## Week 1.	What is GEE?
   1. Cloud computing platform with access to massive data archives
   1. Allows anyone to run analyses on data archives without computing capacity, data storage, and minimum internet bandwidth requirements
-      1. https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed (1.5 hr video)
-      1. What data are on GEE?  
-    - Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
-    - https://developers.google.com/earth-engine/datasets/
-  - Assignment
-    - [Sign up for GEE](https://signup.earthengine.google.com)
-    - [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+      * [intro video (90 min)] (https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed)
+      * What data are on GEE?  
+        * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
+        * [view datasets] (https://developers.google.com/earth-engine/datasets/)
+      # * Assignment
+          * [Sign up for GEE](https://signup.earthengine.google.com)
+          * [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 Week 2.	Intro to javascipt and Github
     2. lab 1: 
       i.02_javascript.js & git hub intructions
