@@ -1,5 +1,5 @@
 GES 4xx: Introduction to GEE for geographers
-short decription:
+short decription:xxx
 
 
 Weeks:
