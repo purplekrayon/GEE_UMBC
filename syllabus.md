@@ -1,4 +1,4 @@
-![Alt Text](https://www.umbc.edu/img/UMBC-color.svg) <!-- .element height="20%" width="20%" -->
+<img src="https://www.umbc.edu/img/UMBC-color.svg" width="350" height="350">
 
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
