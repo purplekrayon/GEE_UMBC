@@ -23,7 +23,7 @@ short decription:xxx
 * Apply algorithm
 * importing raster and vector
 ### Assignment 3
-* link to script
+link to script
 ## Week 4.	Time series
 * multidate image analysis
 * Filter image collection
@@ -31,47 +31,47 @@ short decription:xxx
 * Reduce collection
 * Compute aggregate statistics
 ### Assignment 4
-* link to script
+link to script
 ## Week 5. Plot data, export image, export table
 ### Assignment 5
-* link to script
+link to script
 ## Week 6. Vector import and visulaizations
   * add table assets
   * Graphs & charts
 ### Assignment 6
-* link to script
+link to script
 ## Week 7.	Image Analysis
   * Simgle Date Image classification
   * generate data points for training and validation
   * run classificaiton algorithm
   * PErform classificaiotn Validation
 ### Assignment 7
-* link to script
+link to script
 ## Week 8. introduction to SAR
   * Explore Sentinel SAR data
 ### Assignment 8
-* create water mask with SAR
+create water mask with SAR
 ## Week 9. introduction to SAR
   * TBD
 ### Assignment 9
-* TBD
+TBD
 ## Week 10. introduction to SAR
   * TBD
 ### Assignment 10
-* TBD
+TBD
 ## Week 11. introduction to SAR
   * TBD
 ### Assignment 11
-* TBD
+TBD
 ## Week 12. introduction to SAR
   * TBD
 ### Assignment 12
-* TBD
+TBD
 ## Week 13. introduction to SAR
   * TBD
 ### Assignment 13
-* TBD
+TBD
 ## Week 14. introduction to SAR
   * TBD
 ### Assignment 14
-* TBD
+TBD
