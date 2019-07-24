@@ -1,4 +1,4 @@
-<img src="https://www.umbc.edu/img/UMBC-color.svg" width="350" height="350">
+<img src="https://www.umbc.edu/img/UMBC-color.svg" width="315" height="82">
 
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
@@ -10,9 +10,9 @@ short decription:xxx
       * What data are on GEE?  
         * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
         * [view datasets] (https://developers.google.com/earth-engine/datasets/)
-  ### 1. Assignment
-        1. [Sign up for GEE](https://signup.earthengine.google.com)
-        1. [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+  ### Assignment
+        [Sign up for GEE](https://signup.earthengine.google.com)
+        [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
         
 ## Week 2.	Intro to javascipt and Github
     * lab 1: 
