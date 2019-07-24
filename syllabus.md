@@ -3,8 +3,6 @@
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
 
-
-Weeks:
 ## Week 1.	What is GEE?
   1. Cloud computing platform with access to massive data archives
   1. Allows anyone to run analyses on data archives without computing capacity, data storage, and minimum internet bandwidth requirements
@@ -13,13 +11,15 @@ Weeks:
         * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
         * [view datasets] (https://developers.google.com/earth-engine/datasets/)
   ### 1. Assignment
-       * [Sign up for GEE](https://signup.earthengine.google.com)
-       * [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+        1. [Sign up for GEE](https://signup.earthengine.google.com)
+        1. [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+        
 ## Week 2.	Intro to javascipt and Github
-    2. lab 1: 
-      i.02_javascript.js & git hub intructions
-      ii. Data input & visualization
-      iii. polygon drwaing. difference between goemetery and feature
+    * lab 1: 
+    * 02_javascript.js & git hub intructions
+    * Data input & visualization
+    * polygon drwaing. difference between goemetery and feature
+
 ## week 3.	Analyzing single data imagery in GEE & data IO
   * Single date:
   * Find single image data
