@@ -1,3 +1,6 @@
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
 
@@ -10,7 +13,7 @@ Weeks:
       * What data are on GEE?  
         * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
         * [view datasets] (https://developers.google.com/earth-engine/datasets/)
-  # 1. Assignment
+  ### 1. Assignment
        * [Sign up for GEE](https://signup.earthengine.google.com)
        * [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 ## Week 2.	Intro to javascipt and Github
