@@ -1,4 +1,8 @@
-![Alt Text](https://www.umbc.edu/img/UMBC-color.svg)
+![Alt Text](https://www.umbc.edu/img/UMBC-color.svg){
+  width: 5%;
+  border: none;
+  background: none;
+}
 
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
