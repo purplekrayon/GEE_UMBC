@@ -4,20 +4,19 @@ GES 4xx: Introduction to GEE for geographers
 short decription:xxx
 
 ## Week 1.	What is GEE?
-  1. Cloud computing platform with access to massive data archives
-  1. Allows anyone to run analyses on data archives without computing capacity, data storage, and minimum internet bandwidth requirements
-      * [intro video (90 min)] (https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed)
-      * What data are on GEE?  
-        * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
-        * [view datasets] (https://developers.google.com/earth-engine/datasets/)
+* GEE is a cloud computing platform with access to massive data archives. Anyone with a web browser can run analyses on data archives without computing capacity, data storage, and internet bandwidth restrictions
+* [intro video (90 min)] (https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed)
+* What data are on GEE?  
+  * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
+  * [view datasets] (https://developers.google.com/earth-engine/datasets/)
 ### Assignment
-       [Sign up for GEE](https://signup.earthengine.google.com)
-       [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)    
-## Week 2.	Intro to javascipt and Github
-    * lab 1: 
-    * 02_javascript.js & git hub intructions
-    * Data input & visualization
-    * polygon drwaing. difference between goemetery and feature
+[Sign up for GEE](https://signup.earthengine.google.com)
+[Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)    
+## Week 2. Intro to javascipt and Github
+* Data input & visualization
+* polygon drwaing. difference between goemetery and feature?
+### Assignment 2
+02_javascript.js & git hub intructions .. need to link to code directly
 ## Week 3.	Analyzing single data imagery in GEE & data IO
   * Single date image analysis
    * Find single image data
