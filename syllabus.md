@@ -11,15 +11,16 @@ short decription:xxx
  * [view datasets] (https://developers.google.com/earth-engine/datasets/)
 ### Assignment 1
 [Sign up for GEE](https://signup.earthengine.google.com)\
-[Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)\
+[Reading javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)\
+[Reading GEE console](https://developers.google.com/earth-engine/playground)\
 Add this GEE repository
 https://code.earthengine.google.com/?accept_repo=users/krayon/UMBC_GEE \
 or clone its GIT repository by running: 'git clone https://earthengine.googlesource.com/users/krayon/UMBC_GEE'
 ## Week 2. Intro to javascipt and Github
+* review javascript examples in class
 * Data input & visualization
-* polygon drwaing. difference between goemetery and feature?
 ### Assignment 2
-[link to javascript excercise](https://code.earthengine.google.com/34d4b800f1fa04021e32acade2e2b0e6)
+[lab 1](https://docs.google.com/document/d/1jblW6YSHCVbN_q3oQOOIpPPNa4Q0_Gt6D6oLdEyQPF4/edit)
 ## Week 3.	Analyzing single data imagery in GEE & data IO
 * Single date image analysis
 * Find single image data
