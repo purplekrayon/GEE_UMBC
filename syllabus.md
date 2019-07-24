@@ -4,10 +4,10 @@ GES 4xx: Introduction to GEE for geographers
 short decription:xxx
 
 ## Week 1.	What is GEE?
-* GEE is a cloud computing platform with access to massive data archives. Anyone with a web browser can run analyses on data archives without computing capacity, data storage, and internet bandwidth restrictions\
+* GEE is a cloud computing platform with access to massive data archives. Anyone with a web browser can run analyses on data archives without computing capacity, data storage, and internet bandwidth restrictions \
  * [intro video (90 min)] (https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed)
 * What data are on GEE?  
- * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate\
+ * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate \
  * [view datasets] (https://developers.google.com/earth-engine/datasets/)
 ### Assignment 1
 [Sign up for GEE](https://signup.earthengine.google.com)\
