@@ -11,7 +11,10 @@ short decription:xxx
  * [view datasets] (https://developers.google.com/earth-engine/datasets/)
 ### Assignment 1
 [Sign up for GEE](https://signup.earthengine.google.com)\
-[Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)    
+[Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)\
+Add this GEE repository
+https://code.earthengine.google.com/?accept_repo=users/krayon/UMBC_GEE \
+or clone its GIT repository by running: 'git clone https://earthengine.googlesource.com/users/krayon/UMBC_GEE'
 ## Week 2. Intro to javascipt and Github
 * Data input & visualization
 * polygon drwaing. difference between goemetery and feature?
