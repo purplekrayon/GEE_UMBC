@@ -1,5 +1,4 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Alt Text](https://www.umbc.edu/img/UMBC-color.svg)
 
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
