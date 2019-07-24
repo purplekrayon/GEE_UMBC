@@ -1,3 +1,5 @@
+<img src="https://www.umbc.edu/img/UMBC-color.svg" width="350" height="350">
+
 GES 4xx: Introduction to GEE for geographers
 short decription:xxx
 
@@ -10,27 +12,27 @@ Weeks:
       * What data are on GEE?  
         * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
         * [view datasets] (https://developers.google.com/earth-engine/datasets/)
-      # * Assignment
-          * [Sign up for GEE](https://signup.earthengine.google.com)
-          * [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
-Week 2.	Intro to javascipt and Github
+  ### 1. Assignment
+       * [Sign up for GEE](https://signup.earthengine.google.com)
+       * [Reading assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+## Week 2.	Intro to javascipt and Github
     2. lab 1: 
       i.02_javascript.js & git hub intructions
       ii. Data input & visualization
       iii. polygon drwaing. difference between goemetery and feature
-week 4.	Analyzing single data imagery in GEE & data IO
-  a.	Single date:
-    i.	Find single image data
-     ii.	Apply algorithm
-    iii. importing raster and vector
-Week 4.	Time series
-  i.	Find data
-  ii.	Filter image collection
-  iii.	Map algorithm over collection
-  iv.	Reduce collection
-  v.	Compute aggregate statistics
-vi.	Plot data, export image, export table
-5.	Data input
+## week 3.	Analyzing single data imagery in GEE & data IO
+  * Single date:
+  * Find single image data
+  * Apply algorithm
+  * importing raster and vector
+## Week 4.	Time series
+  * Find data
+  * Filter image collection
+  * Map algorithm over collection
+  * Reduce collection
+  * Compute aggregate statistics
+## Week 5. Plot data, export image, export table
+## Week 6. Data input
 a.	Raster & vector
 6.	Visualization
 a.	On screen
