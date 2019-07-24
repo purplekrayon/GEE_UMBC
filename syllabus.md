@@ -16,7 +16,7 @@ short decription:xxx
 * Data input & visualization
 * polygon drwaing. difference between goemetery and feature?
 ### Assignment 2
-02_javascript.js & git hub intructions .. need to link to code directly
+[link to javascript excercise](https://code.earthengine.google.com/34d4b800f1fa04021e32acade2e2b0e6)
 ## Week 3.	Analyzing single data imagery in GEE & data IO
 * Single date image analysis
 * Find single image data
