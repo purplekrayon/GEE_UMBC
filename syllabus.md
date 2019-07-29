@@ -80,5 +80,5 @@ TBD
 ### Assignment 14
 TBD
 ## Additional Resources
-[Tutorials] (https://developers.google.com/earth-engine/tutorials) \
-[Labs] (https://developers.google.com/earth-engine/edu) \
+[Tutorials](https://developers.google.com/earth-engine/tutorials) \
+[Labs](https://developers.google.com/earth-engine/edu)
