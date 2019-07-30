@@ -81,4 +81,5 @@ TBD
 TBD
 ## Additional Resources
 [Tutorials](https://developers.google.com/earth-engine/tutorials) \
-[Labs](https://developers.google.com/earth-engine/edu)
+[Labs](https://developers.google.com/earth-engine/edu)\
+[SCGIS webinar](https://consbio.org/products/webinars/scgis-earths-vital-signs-planetary-scale-monitoring-google-earth-engine)
