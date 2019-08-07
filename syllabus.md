@@ -5,7 +5,7 @@ short decription:xxx
 
 ## Week 1.	What is GEE?
 * GEE is a cloud computing platform with access to massive data archives. Anyone with a web browser can run analyses on data archives without computing capacity, data storage, and internet bandwidth restrictions
-* [Google Earth Engine Tutorial](https://www.youtube.com/watch?v=uHtehTSw7vg)
+* [Google Earth Engine Tutorial from a non remote sensing specialist (11 minutes)](https://www.youtube.com/watch?v=uHtehTSw7vg)
 * [intro video (90 min)](https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed)
 * What data are on GEE?  
  * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
@@ -19,6 +19,8 @@ https://code.earthengine.google.com/?accept_repo=users/krayon/UMBC_GEE \
 or clone its GIT repository by running: 'git clone https://earthengine.googlesource.com/users/krayon/UMBC_GEE'
 ## Week 2. Intro to javascipt and Github
 * review javascript examples in class
+* review funtions
+* [view tutorial video (4 min)](https://www.youtube.com/watch?v=2X9J4waFEtc)
 * Data input & visualization
 ### Assignment 2
 [lab 1](https://docs.google.com/document/d/1jblW6YSHCVbN_q3oQOOIpPPNa4Q0_Gt6D6oLdEyQPF4/edit)
