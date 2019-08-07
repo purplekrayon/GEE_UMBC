@@ -1,6 +1,7 @@
 //When you are figuring out what a function does, you start where it is called(1), then look at what is does (2).
+//functions can be written different ways depending on the stype of the developer
 
-//Function example 1: function returning a variable
+//Function example 1: 
 //(2) here is where the function is defined
 var my_hello_function = function(string) {
   return 'Hello ' + string + '!';
@@ -10,7 +11,7 @@ var my_hello_function = function(string) {
 print(my_hello_function('world')); //This line sends the string ‘world’ to the function called, my_hello_world. The variable that is returned is then printed to the console.
 
 
-//Function example 2: calling to a funciton to execute. Returning nothing.
+//Function example 2: 
 // A list of harvest dates.
 var dates = ee.List(["2012-08-14", "2013-08-25", "2014-09-01", "2015-08-23"])
 
@@ -20,4 +21,4 @@ function DayOfYear(date) {
 } 
 
 //(1) here is where the function is called
-print(dates.map(DayOfYear))  //’.map’ applies the function returned from the function, DayOfYear, to every object in the list, "dates". [.map is essentially a loop over a vector or array]
+print(dates.map(DayOfYear))  //’.map’ applies the function, DayOfYear, to every object in the list, "dates". [.map is essentially a loop over a vector or array]
