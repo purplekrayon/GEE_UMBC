@@ -1,4 +1,4 @@
-//Difference between defining a function and variable. When you are figuring out what a function does, you start where it is called(1), then look at what is does (2).
+//When you are figuring out what a function does, you start where it is called(1), then look at what is does (2).
 
 //Function example 1: function returning a variable
 //(2) here is where the function is defined
@@ -10,7 +10,7 @@ var my_hello_function = function(string) {
 print(my_hello_function('world')); //This line sends the string ‘world’ to the function called, my_hello_world. The variable that is returned is then printed to the console.
 
 
-//Function example 2: function returning a function
+//Function example 2: calling to a funciton to execute. Returning nothing.
 // A list of harvest dates.
 var dates = ee.List(["2012-08-14", "2013-08-25", "2014-09-01", "2015-08-23"])
 
