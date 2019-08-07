@@ -5,6 +5,7 @@ short decription:xxx
 
 ## Week 1.	What is GEE?
 * GEE is a cloud computing platform with access to massive data archives. Anyone with a web browser can run analyses on data archives without computing capacity, data storage, and internet bandwidth restrictions
+* [Google Earth Engine Tutorial](https://www.youtube.com/watch?v=uHtehTSw7vg)
 * [intro video (90 min)](https://developers.google.com/earth-engine/tutorials#introduction-to-earth-engine-condensed)
 * What data are on GEE?  
  * Landsat & Sentinel, MODIS, VIIRS, Terra Bella, land cover, weather and climate
